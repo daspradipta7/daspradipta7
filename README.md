@@ -1,5 +1,8 @@
 # 💫 About Me:
-Enterprise healthcare platform initially developed as a monolithic application and later modernized into an event driven microservices using serverless Node.js Azure Functions
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Pradipta Das
+=====================================================================================================================================
+
+I am a Full Stack Engineer with over 4.6 years of experience designing scalable, event-driven, and cloud-native systems. I specialize in Node.js, Azure Functions, and migrating monoliths to microservices.
 
 
 ## 🌐 Socials:
