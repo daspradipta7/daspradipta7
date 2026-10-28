@@ -2,7 +2,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Pradipta Das
 =====================================================================================================================================
 
-I am a Full Stack Engineer with over 4.6 years of experience designing scalable, event-driven, and cloud-native systems. I specialize in Node.js, Azure Functions, and migrating monoliths to microservices.
+I am a Full Stack Engineer with over 5+ years of experience designing scalable, event-driven, and cloud-native systems. I specialize in Node.js, Azure Functions, and migrating monoliths to microservices.
 
 
 ## 🌐 Socials:
@@ -18,6 +18,3 @@ I am a Full Stack Engineer with over 4.6 years of experience designing scalable,
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=daspradipta7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=daspradipta7&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
